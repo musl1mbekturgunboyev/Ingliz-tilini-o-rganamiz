@@ -1,0 +1,101 @@
+.glavni {
+ display: flex;justify-content: space-between;   position: fixed; width: 100%; left: 0; backdrop-filter: blur(5px); top: 0; box-shadow: 2px 2px 10px grey;
+}
+.logo1 {
+    width: 100px;margin-top: 10px; 
+    margin-left: 100px;
+    border-radius: 10px;
+
+}
+.logo1:hover{
+    width: 130px;
+    transition: 1s;
+}
+.div1 {
+    display: flex;padding: 10px;
+}
+.div2 {
+    display: flex;gap: 30px;margin-right: 100px;padding-top: 20px;padding-bottom: 20px;
+    border-radius: 50px;
+}
+.alfabet {
+    cursor: pointer;background-color: red;color: white;border: none;
+    border-radius: 10px;
+}
+.alfabet:hover {
+    background-color: rgb(168, 168, 168);transition: 1s;
+}
+.raqam {
+    cursor: pointer;background-color: blue;color: white;border: none;
+    border-radius: 10px;
+}
+.raqam:hover {
+    background-color: rgb(168, 168, 168);transition: 1s;
+}
+.sozlar {
+    cursor: pointer;background-color: orange;color: white;border: none;
+    border-radius: 10px;
+}
+.sozlar:hover {
+    background-color: rgb(168, 168, 168);transition: 1s;
+}
+.tarjima {
+    cursor: pointer;background-color: rgba(31, 231, 64, 0.819);color: rgb(255, 255, 255);border: none;
+    border-radius: 10px;
+}
+.tarjima:hover {
+    background-color: rgb(168, 168, 168);transition: 1s;
+}
+.login {
+    cursor: pointer;background-color: rgba(255, 0, 0, 0.819);color: rgb(255, 255, 255);border: none;
+    border-radius: 10px;
+}
+.div3 {
+    text-align: center;margin-top: 200px;
+}
+.text {
+    font-size: 50px;
+}
+.div4 {
+    background-color: rgba(164, 164, 164, 0.882);padding: 300px;position: fixed; width: 100%; left: 0;
+}
+.sahifa {
+    position: absolute;
+    top: -0%;
+    left: 5%;
+}
+.instagram {
+    position: absolute;
+    top:8%;
+    left: 9%;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+.instagram:hover {
+    color: rgb(255, 255, 255);
+}
+.youtube {
+    position: absolute;
+    top:8%;
+    left: 11%;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+.youtube:hover {
+    color: rgb(255, 255, 255);
+}
+.bot {
+text-align: center;
+}
+.botga-otish {
+    margin-left:700px;
+    margin-bottom: 50px;
+    padding: 10px;
+    font-family: 30px;
+    border: none;
+    border-radius: 10px;
+}
+.botga-otish:hover {
+    background-color: red;
+    color: white;
+}

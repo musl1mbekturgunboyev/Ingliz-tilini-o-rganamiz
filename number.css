@@ -1,0 +1,18 @@
+.orqaga {
+    font-size: 20px;
+    cursor: pointer;
+}
+.number {
+    text-align: center;
+}
+.number-button {
+    text-align: center;
+    
+}
+.raqam {
+    font-size: 20px;
+    background-color: rgb(0, 8, 255);
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}

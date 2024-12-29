@@ -1,0 +1,28 @@
+.orqaga {
+    font-size: 20px;
+    cursor: pointer;
+}
+.word1 {
+    font-size: 20px;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    color: white;
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+.word2 {
+    font-size: 20px;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: none;
+    color: rgb(75, 75, 75);
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   top: 125px;
+   background-color: rgb(0, 195, 255);
+
+}
+

@@ -1,0 +1,46 @@
+.orqaga {
+    font-size: 20px;
+    cursor: pointer;
+}
+.h1Alphabet {
+    text-align: center;
+    font-size: 50px;
+}
+.imgAlphabet {
+    position: absolute;
+    left: 250px;
+    width: 1000px;
+}
+.talafuz {
+    position: absolute;
+    top: 900px;
+    text-align: center;
+    left: 500px;
+}
+.tg-bot {
+    position: absolute;
+    top: 1020px;
+    text-align: center;
+    left: 630px;
+    border: none;
+    cursor: pointer;
+}
+.tg-bot:hover {
+    color: red;
+    transition: 1s;
+}
+.eslatma {
+    position: absolute;
+    top: 1100px;
+    text-align: center;
+    left: 50px;
+    font-size: 30px;
+    
+}
+.div5 {
+    position: absolute;
+    top: 1190px;
+    left: 50px;
+    font-size: 20px;
+}
+
