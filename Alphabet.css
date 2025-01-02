@@ -24,10 +24,10 @@
     left: 630px;
     border: none;
     cursor: pointer;
+    transition: 1s;
 }
 .tg-bot:hover {
     color: red;
-    transition: 1s;
 }
 .eslatma {
     position: absolute;
