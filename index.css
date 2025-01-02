@@ -14,12 +14,12 @@
     margin-top: 10px;
     margin-left: 100px;
     border-radius: 10px;
+    transition: 1s;
 
 }
 
 .logo1:hover {
     width: 130px;
-    transition: 1s;
 }
 
 .div1 {
